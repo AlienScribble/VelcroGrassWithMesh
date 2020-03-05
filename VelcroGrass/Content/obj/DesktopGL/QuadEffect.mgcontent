@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/JEI/Documents/Visual Studio 2017/Projects/stored_stuff/old/VelcroGrass/VelcroGrass/Content/QuadEffect.fx</SourceFile>
+  <SourceTime>2020-02-28T08:35:35.9636878-06:00</SourceTime>
+  <DestFile>C:/Users/JEI/Documents/Visual Studio 2017/Projects/stored_stuff/old/VelcroGrass/VelcroGrass/Content/bin/DesktopGL/QuadEffect.xnb</DestFile>
+  <DestTime>2020-02-28T10:30:56.2075031-06:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

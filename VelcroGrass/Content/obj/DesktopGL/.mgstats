@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/JEI/Documents/Visual Studio 2017/Projects/stored_stuff/old/VelcroGrass/VelcroGrass/Content/grass.png","C:/Users/JEI/Documents/Visual Studio 2017/Projects/stored_stuff/old/VelcroGrass/VelcroGrass/Content/bin/DesktopGL/grass.xnb","TextureProcessor","Texture2DContent",396321,393301,0.4980285
+"C:/Users/JEI/Documents/Visual Studio 2017/Projects/stored_stuff/old/VelcroGrass/VelcroGrass/Content/QuadEffect.fx","C:/Users/JEI/Documents/Visual Studio 2017/Projects/stored_stuff/old/VelcroGrass/VelcroGrass/Content/bin/DesktopGL/QuadEffect.xnb","EffectProcessor","CompiledEffectContent",963,1522,0.4330248
